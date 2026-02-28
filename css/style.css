@@ -15,12 +15,3 @@ nav img {
 nav li {
     text-align: center;
 }
-
-.nav-item {
-    float: left;
-}
-
-.nav-item-right{
-    float: right;
-    text-align: right;
-}
